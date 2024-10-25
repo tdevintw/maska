@@ -1,0 +1,56 @@
+23-Oct-2024 11:52:26.337 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.31
+23-Oct-2024 11:52:26.341 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Oct 3 2024 19:02:38 UTC
+23-Oct-2024 11:52:26.341 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.31.0
+23-Oct-2024 11:52:26.342 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+23-Oct-2024 11:52:26.342 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+23-Oct-2024 11:52:26.342 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+23-Oct-2024 11:52:26.342 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-22
+23-Oct-2024 11:52:26.342 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           22.0.1+8-16
+23-Oct-2024 11:52:26.343 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+23-Oct-2024 11:52:26.343 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\aitel\OneDrive\Desktop\Java\Maska
+23-Oct-2024 11:52:26.343 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\aitel\Downloads\apache-tomcat-10.1.31
+23-Oct-2024 11:52:26.354 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+23-Oct-2024 11:52:26.354 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+23-Oct-2024 11:52:26.355 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+23-Oct-2024 11:52:26.355 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+23-Oct-2024 11:52:26.355 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+23-Oct-2024 11:52:26.355 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\aitel\Downloads\apache-tomcat-10.1.31
+23-Oct-2024 11:52:26.355 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\aitel\OneDrive\Desktop\Java\Maska
+23-Oct-2024 11:52:26.356 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\aitel\OneDrive\Desktop\Java\Maska\temp
+23-Oct-2024 11:52:26.356 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\aitel\OneDrive\Desktop\Java\Maska\conf\logging.properties
+23-Oct-2024 11:52:26.356 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+23-Oct-2024 11:52:26.356 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.1.2\lib\idea_rt.jar=59229:C:\Program Files\JetBrains\IntelliJ IDEA 2024.1.2\bin
+23-Oct-2024 11:52:26.356 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+23-Oct-2024 11:52:26.357 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+23-Oct-2024 11:52:26.357 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+23-Oct-2024 11:52:26.360 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.8] using APR version [1.7.4].
+23-Oct-2024 11:52:26.367 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.14 4 Jun 2024]
+23-Oct-2024 11:52:26.729 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-4848"]
+23-Oct-2024 11:52:26.749 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [622] milliseconds
+23-Oct-2024 11:52:26.806 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+23-Oct-2024 11:52:26.806 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.31]
+23-Oct-2024 11:52:26.817 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\aitel\OneDrive\Desktop\Java\Maska\conf\Catalina\localhost\ROOT.xml]
+23-Oct-2024 11:52:29.974 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+23-Oct-2024 11:52:35.020 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\aitel\OneDrive\Desktop\Java\Maska\conf\Catalina\localhost\ROOT.xml] has finished in [8,202] ms
+23-Oct-2024 11:52:35.023 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-4848"]
+23-Oct-2024 11:52:35.035 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [8285] milliseconds
+23-Oct-2024 11:52:35.035 SEVERE [main] org.apache.catalina.core.StandardServer.await Failed to create server shutdown socket on address [localhost] and port [8080] (base port [8080] and offset [0])
+	java.net.BindException: Address already in use: bind
+		at java.base/sun.nio.ch.Net.bind0(Native Method)
+		at java.base/sun.nio.ch.Net.bind(Net.java:565)
+		at java.base/sun.nio.ch.Net.bind(Net.java:554)
+		at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:636)
+		at java.base/java.net.ServerSocket.bind(ServerSocket.java:390)
+		at java.base/java.net.ServerSocket.<init>(ServerSocket.java:277)
+		at org.apache.catalina.core.StandardServer.await(StandardServer.java:533)
+		at org.apache.catalina.startup.Catalina.await(Catalina.java:847)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:795)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:345)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:473)
+23-Oct-2024 11:52:35.036 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-4848"]
+23-Oct-2024 11:52:35.041 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+23-Oct-2024 11:52:35.076 WARNING [main] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [ROOT] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+23-Oct-2024 11:52:35.083 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-4848"]
+23-Oct-2024 11:52:35.097 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-4848"]
