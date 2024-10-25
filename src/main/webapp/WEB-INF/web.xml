@@ -21,7 +21,7 @@
     <!-- Context configuration for Spring -->
     <context-param>
         <param-name>contextConfigLocation</param-name>
-        <param-value>/applicationContext.xml</param-value> <!-- Spring application context configuration -->
+        <param-value>classpath:applicationContext.xml</param-value> <!-- Spring application context configuration -->
     </context-param>
 
     <listener>

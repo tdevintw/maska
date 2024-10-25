@@ -21,8 +21,8 @@ public class MemberServiceImpl implements MemberService {
         return memberRepository.save(member);
     }
 
-    public void delete(Member member) {
-         memberRepository.delete(member);
+    public void delete(int id) {
+         memberRepository.deleteById(id);
     }
 
     public Optional<Member> find(int id) {
@@ -32,5 +32,10 @@ public class MemberServiceImpl implements MemberService {
     public List<Member> getMembers() {
         return memberRepository.findAll();
     }
+   public  Member edit(Member member){
+        return memberRepository.save(member);
+   };
+
+
 
 }
