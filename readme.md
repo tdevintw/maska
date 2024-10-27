@@ -27,7 +27,7 @@ Maska<br>
 │   └── main<br>
 │       ├── java<br>
 │       │   └── dev.yassiraitelghari.maska<br>
-│       │       ├── controller
+│       │       ├── controller<br>
 │       │       │   └── HomeController.java
 │       │       ├── domain<br>
 │       │       │   └── Member.java            
@@ -38,11 +38,11 @@ Maska<br>
 │       │       │   │   └── MemberServiceImpl.java
 │       │       │   └── MemberService.java      
 │       │       └── web<br>
-│       │           └── HomeController.java<br>      
+│       │           └── HomeController.java  
 │       ├── resources<br>
-│       │   └── applicationContext.xml<br>             
-│       └── webapp<br>
-│           └── WEB-INF<br>
+│       │   └── applicationContext.xml       
+│       └── webapp
+│           └── WEB-INF
 │               ├── views<br>
 │               ├── dispatcher-servlet.xml<br>        
 │               └── web.xml<br>                     
