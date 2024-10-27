@@ -41,8 +41,8 @@ Maska<br>
 │       │           └── HomeController.java  
 │       ├── resources<br>
 │       │   └── applicationContext.xml       
-│       └── webapp
-│           └── WEB-INF
+│       └── webapp<br>
+│           └── WEB-INF<br>
 │               ├── views<br>
 │               ├── dispatcher-servlet.xml       
 │               └── web.xml<br>                     
