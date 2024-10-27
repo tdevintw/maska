@@ -35,7 +35,7 @@ Maska<br>
 │       │       │   └── MemberRepository.java  
 │       │       ├── service<br>
 │       │       │   ├── implementations<br>
-│       │       │   │   └── MemberServiceImpl.java
+│       │       │   │   └── MemberServiceImpl.java<br>
 │       │       │   └── MemberService.java      
 │       │       └── web<br>
 │       │           └── HomeController.java  
@@ -44,7 +44,7 @@ Maska<br>
 │       └── webapp
 │           └── WEB-INF
 │               ├── views<br>
-│               ├── dispatcher-servlet.xml<br>        
+│               ├── dispatcher-servlet.xml       
 │               └── web.xml<br>                     
 
 ### Dependency Injection (DI)
