@@ -30,7 +30,7 @@ Maska<br>
 │       │       ├── controller<br>
 │       │       │   └── HomeController.java<br>
 │       │       ├── domain<br>
-│       │       │   └── Member.java <br>           
+│       │       │   └── Member.java          
 │       │       ├── repository<br>
 │       │       │   └── MemberRepository.java  
 │       │       ├── service<br>
