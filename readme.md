@@ -18,34 +18,34 @@ such as creating, viewing, updating, and deleting users through a web interface.
 - [Installation and Setup](#installation-and-setup)
 
 ### Project Structure
-Maska
-├── .idea
-├── .smarttomcat
-├── conf
-├── logs
-├── src
-│   └── main
-│       ├── java
-│       │   └── dev.yassiraitelghari.maska
+Maska<br>
+├── .idea<br>
+├── .smarttomcat<br>
+├── conf<br>
+├── logs<br>
+├── src<br>
+│   └── main<br>
+│       ├── java<br>
+│       │   └── dev.yassiraitelghari.maska<br>
 │       │       ├── controller
-│       │       │   └── HomeController.java     
-│       │       ├── domain
-│       │       │   └── Member.java              
-│       │       ├── repository
-│       │       │   └── MemberRepository.java    
-│       │       ├── service
-│       │       │   ├── implementations
-│       │       │   │   └── MemberServiceImpl.java  
-│       │       │   └── MemberService.java         
-│       │       └── web
-│       │           └── HomeController.java      
-│       ├── resources
-│       │   └── applicationContext.xml             
-│       └── webapp
-│           └── WEB-INF
-│               ├── views
-│               ├── dispatcher-servlet.xml        
-│               └── web.xml                     
+│       │       │   └── HomeController.java<br>
+│       │       ├── domain<br>
+│       │       │   └── Member.java<br>              
+│       │       ├── repository<br>
+│       │       │   └── MemberRepository.java<br>    
+│       │       ├── service<br>
+│       │       │   ├── implementations<br>
+│       │       │   │   └── MemberServiceImpl.java<br>  
+│       │       │   └── MemberService.java<br>         
+│       │       └── web<br>
+│       │           └── HomeController.java<br>      
+│       ├── resources<br>
+│       │   └── applicationContext.xml<br>             
+│       └── webapp<br>
+│           └── WEB-INF<br>
+│               ├── views<br>
+│               ├── dispatcher-servlet.xml<br>        
+│               └── web.xml<br>                     
 
 ### Dependency Injection (DI)
 
