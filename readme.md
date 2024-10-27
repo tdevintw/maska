@@ -28,15 +28,15 @@ Maska<br>
 │       ├── java<br>
 │       │   └── dev.yassiraitelghari.maska<br>
 │       │       ├── controller
-│       │       │   └── HomeController.java<br>
+│       │       │   └── HomeController.java
 │       │       ├── domain<br>
-│       │       │   └── Member.java<br>              
+│       │       │   └── Member.java            
 │       │       ├── repository<br>
-│       │       │   └── MemberRepository.java<br>    
+│       │       │   └── MemberRepository.java  
 │       │       ├── service<br>
 │       │       │   ├── implementations<br>
-│       │       │   │   └── MemberServiceImpl.java<br>  
-│       │       │   └── MemberService.java<br>         
+│       │       │   │   └── MemberServiceImpl.java
+│       │       │   └── MemberService.java      
 │       │       └── web<br>
 │       │           └── HomeController.java<br>      
 │       ├── resources<br>
