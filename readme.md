@@ -104,8 +104,8 @@ Spring Data Jpa is a project of the Spring rich ecosystem , Spring Data jpa base
 Spring Mvc is another robust project of the spring ecosystem it's based on the mvc Architectural pattern , mvc is a pattern that was known to be used for web application  , it aims to separate the concerns of the applicaiton into 3 parts : view(jsp) , model (@Reposiory) , controller (@Controller)  
 in top of the mvc pattern spring extend the mvc by adding other component to secure and control the lifecycle of the requests , such as teh front controller and view resolver which are like the responsible to get the right controller and view of the request sent by the user
 ### Installation and Setup
-git clone 
-download tomcat 
-mvn clean install 
-add the war executice file to tomcat server 
-run application
+git clone <br>
+download tomcat  <br>
+mvn clean install  <br>
+add the war executice file to tomcat server  <br>
+run application <br>
