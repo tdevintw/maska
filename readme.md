@@ -28,9 +28,9 @@ Maska<br>
 │       ├── java<br>
 │       │   └── dev.yassiraitelghari.maska<br>
 │       │       ├── controller<br>
-│       │       │   └── HomeController.java
+│       │       │   └── HomeController.java<br>
 │       │       ├── domain<br>
-│       │       │   └── Member.java            
+│       │       │   └── Member.java <br>           
 │       │       ├── repository<br>
 │       │       │   └── MemberRepository.java  
 │       │       ├── service<br>
